@@ -11,7 +11,7 @@
 <body><h4>
    <center>
        <div  id="box">
-          <form action="/login.php" method="$_GET" >
+          <form action="/login.php" method="POST" >
         <center><h1>Регистрация</h1></center>
 
            <nav > 
