@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/flat-background-fall-season-celebration_23-2150670783.jpg?semt=ais_hybrid&w=740&q=80);
+background-size: 100%;
+ba
+}
+
+
+#box {
+    background-color: rgb(233, 237, 132);
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    margin: 50px;
+    border-style: outset;
+    border-radius: 15px;
+}
+
+input[type=email], input[type=password], #pol {
+    width: 100%;
+    padding: 10px 13px;
+    margin: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid #686868;
+}
+
+
+#bat {   
+     width: 100%;
+    padding: 10px 15px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(98, 209, 98);
+    color: rgb(8, 26, 12);
+    cursor: pointer;
+    border-radius: 15px;
+}
+ input[type=text] {
+    width: 98%;
+    padding: 10px 13px;
+    margin: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid #686868;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+  
+}

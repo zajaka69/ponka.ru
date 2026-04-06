@@ -1,0 +1,28 @@
+body {
+    background-image: url('/p.jpg');
+    background-size: 100%;
+    text-align: justify;
+}
+
+
+.nav {
+	position: sticky;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 60px;
+	top: 60px;px;
+    color:black;
+}
+
+
+	&__title {
+		margin: 60px 10px;
+	}
+&__item {
+		display: inline-block;
+		margin: 60px 10px;
+       
+	}
+
+
