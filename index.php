@@ -24,10 +24,10 @@
             </div>
            </nav>
             <div>
-                <input type="email" name="email" placeholder="Почта">
+    <input type="email" name="email" placeholder="Почта">
               </div>
           <div>
-              <input type="password" name="password" placeholder="пароль">
+    <input type="password" name="password" placeholder="пароль">
             </div>
             <div>
             <input type="password" name="password_confirm" placeholder="подтвердить пароль">
